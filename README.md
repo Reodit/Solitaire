@@ -1,2 +1,2 @@
 # Solitaire
-a simple direct2d games
+a simple game with gdiplus
